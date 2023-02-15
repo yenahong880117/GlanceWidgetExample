@@ -1,1 +1,1 @@
-# GlanceWidgeExample
+# GlanceWidgetExample
